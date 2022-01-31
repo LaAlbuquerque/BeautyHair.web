@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+body {
+    margin: 0;
+}
+.cabecario {
+    background-color: palevioletred;
+    height: 35px;
+    padding: 0px 20px;
+}
+
+.cont-cabecario {
+    height: 100%;
+}
+
+.titulo-logo {
+    font-size: 28px;
+    font-family: 'Teko', sans-serif;
+    color: #fff;
+}
+
+.btn-cabecario {
+    float: right;
+    height: 100%;
+}
+
+.btn {
+    height: 100%;
+    margin-left: -5px;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    padding: 0 10px;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: pink;
+    border-bottom: 2px solid rgb(223, 89, 111);
+}
+
+.btn:focus {
+    background-color: #fff;
+    color: pink;
+    border-bottom: 2px solid rgb(223, 89, 111);
+}
